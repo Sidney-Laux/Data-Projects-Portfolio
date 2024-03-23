@@ -1,5 +1,6 @@
 # Data-Projects-Portfolio
 My Data Analysis portfolio, containing projects using SQL, Excel, Google Sheets, Tableau, and Power BI. 
+<br> I also have a portfolio website which may be easier to view and navigate here: https://sidneylaux.notion.site/Siti-Asnawiah-s-Data-Analytics-Portfolio-0a1fbdb7d93040c3a1b382332c6908fc. 
 
 
 ## Data Query: SQL & MySQL Workbench
