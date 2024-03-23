@@ -4,14 +4,12 @@ My Data Analysis portfolio, containing projects using SQL, Excel, Google Sheets,
 
 ## Data Query: SQL & MySQL Workbench
 I am able to use SQL to query data, create tables, alter tables, subquery, CTE, Join, aggregate, etc. 
-
 <br>To view my scripts, please see the ***SQL Scripts*** folder in this repository.
 
 
 ## Data Prep: Google Sheets & Excel, MYSQL Workbench
 I am able to use both Microsoft Excel and Google Sheets to prepare data, from data entry to data cleanup, and organizing data into different sheets/tables with common columns for future JOIN cases.
 <br>I am able to use MySQL Workbench to prepare data for visualization in Power BI and Tableau.
-
 <br>Please see the ***Excel and Google Sheet Data Cleanup, Pivot Table*** folder.
 
 
