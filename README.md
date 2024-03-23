@@ -3,6 +3,7 @@ My Data Analysis portfolio, containing projects using SQL, Excel, Google Sheets,
 
 ## Data Query: SQL/ MySQL Workbench
 I am able to use SQL to query data, create tables, alter tables, subquery, CTE, Join, aggregate, etc. To view my scripts, please see the SQL folder in this repository.
+I use the publicly available Classic Models dataset in these scripts. 
 
 ## Data Prep: Google Sheets/ Excel
 I learnt to use both Microsoft Excel and Google Sheets to prepare data, from data entry to data cleanup, and organizing data into different sheets/tables with common columns for future JOIN cases.
